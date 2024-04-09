@@ -19,7 +19,7 @@ The project uses the standard theory of Ohms law, i.e., when a low DC voltage is
 
 The proposed system is to find the exact location of the fault. The project uses the standard concept of Ohms law i.e., when a low DC voltage is applied at the feeder end through a Wires lines, then current would vary depending upon the location of fault in the cable. In case there is a short circuit (Line to Ground), the voltage across series resistors changes accordingly, which is then fed to inbuilt ADC of Arduino board to develop precise digital data for display in kilometers. The fault occurring at a particular distance and the respective phase is displayed on a LCD interfaced to the Arduino board.
   # IMPLEMENTATION PROTOTYPE IMAGES:
-  
+  https://github.com/SmartSak/IOT-BASED-BUILDING-FAULT-DETECTION-AND-INDICATION-/blob/main/Image
 
 
 
